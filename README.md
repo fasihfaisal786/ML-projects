@@ -15,8 +15,12 @@
 - Accuracy: 100%
 - Libraries: Pandas, Scikit-learn
 
-## What I Learned
-- How to train ML models
-- fit() and predict() functions
-- R² Score and Accuracy evaluation
-- Linear, Logistic, Decision Tree algorithms
+## 4. Product Buying Prediction 🛒
+- Algorithm: Random Forest
+- Accuracy: 100%
+- Libraries: Pandas, Scikit-learn
+
+## 5. Customer Grouping 👥
+- Algorithm: K-Means Clustering
+- Groups: 3
+- Libraries: Pandas, Scikit-learn, Matplotlib
